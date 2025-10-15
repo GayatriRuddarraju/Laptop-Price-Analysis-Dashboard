@@ -131,7 +131,7 @@ These filters allow users to dynamically explore the dataset and focus on specif
 
 1) Clone this repository
 
-git clone https://github.com/GayatriRuddarraju/Laptop-Price-Analysis.git
+git clone https://github.com/GayatriRuddarraju/Laptop-Price-Analysis-Dashboard.git
 
 2) Open the .pbix file in Power BI Desktop
 3) Use slicers (Company, OS, RAM range, etc.) to filter views
