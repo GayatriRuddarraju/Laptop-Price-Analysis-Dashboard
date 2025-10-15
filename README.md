@@ -143,6 +143,9 @@ git clone https://github.com/YourUsername/Laptop-Price-Analysis.git
 Gayatri Ruddarraju
 
 📊 Data Analyst | Power BI | SQL | Python
+
 📧 Email: gayatrideviruddarraju@gmail.com
+
 🔗 LinkedIn: http://www.linkedin.com/in/gayatri-devi-ruddarraju-00a579269
+
 📂 GitHub: https://github.com/GayatriRuddarraju
