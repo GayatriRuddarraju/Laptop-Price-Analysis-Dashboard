@@ -23,16 +23,16 @@ This dashboard helps businesses, analysts, and buyers make data-driven decisions
 
 ## 📁 Dataset Information
 
-Company - Laptop manufacturer (e.g., Dell, HP, Apple, Acer, Lenovo)
-TypeName - Category of laptop (Gaming, Workstation, Notebook, Ultrabook, etc.)
-Inches - Screen size (inches)
-Ram	- Memory size (GB)
-Weight	- Laptop weight (kg)
-Price_euros	- Price of laptop (in Euros)
-Operating system(OS) - Windows, macOS, Linux, Chrome OS, Android
-Gpu_Company	- GPU manufacturer (AMD, Intel, ARM, Nvidia)
-Touchscreen	- Whether the laptop has touchscreen functionality (Yes/No)
-Storage	Combined HDD + SSD storage capacity (GB/TB)
+- Company - Laptop manufacturer (e.g., Dell, HP, Apple, Acer, Lenovo)
+- TypeName - Category of laptop (Gaming, Workstation, Notebook, Ultrabook, etc.)
+- Inches - Screen size (inches)
+- Ram	- Memory size (GB)
+- Weight	- Laptop weight (kg)
+- Price_euros	- Price of laptop (in Euros)
+- Operating system(OS) - Windows, macOS, Linux, Chrome OS, Android
+- Gpu_Company	- GPU manufacturer (AMD, Intel, ARM, Nvidia)
+- Touchscreen	- Whether the laptop has touchscreen functionality (Yes/No)
+   Storage	Combined HDD + SSD storage capacity (GB/TB)
 
 📦 Total Models Analyzed: 576
 
@@ -47,9 +47,9 @@ Storage	Combined HDD + SSD storage capacity (GB/TB)
 
 These KPI cards are displayed at the top of the dashboard, offering a quick snapshot of the market summary before diving into detailed visuals.
 
-##📊 Visuals & Insights
+## 📊 Visuals & Insights
 
-###🧩 1. Avg Price & Avg Storage by Operating System
+### 🧩 1. Avg Price & Avg Storage by Operating System
 
 - macOS and Windows 10 laptops are priced the highest.
 
@@ -57,7 +57,7 @@ These KPI cards are displayed at the top of the dashboard, offering a quick snap
 
 - Indicates brand and OS-based market segmentation.
 
-###🏢 2. Avg Storage & Avg Price by Company
+### 🏢 2. Avg Storage & Avg Price by Company
 
 - Apple, Dell, and Asus dominate premium pricing segments.
 
@@ -65,7 +65,7 @@ These KPI cards are displayed at the top of the dashboard, offering a quick snap
 
 - Highlights pricing strategy differences among brands.
 
-###💸 3. Avg Price by Laptop Type
+### 💸 3. Avg Price by Laptop Type
 
 - Workstations (€2.28K) and Gaming laptops (€1.73K) are top-priced categories.
 
@@ -73,25 +73,25 @@ These KPI cards are displayed at the top of the dashboard, offering a quick snap
 
 - Netbooks and Notebooks are budget-friendly for light users.
 
-###🧮 4. Avg Storage & Price by OS
+### 🧮 4. Avg Storage & Price by OS
 
 - Helps understand how OS impacts hardware capacity and cost.
 
 - Windows OS dominates both count and mid-range pricing.
 
-###⚙️ 5. Sum of Inches & Weight by Laptop Type
+### ⚙️ 5. Sum of Inches & Weight by Laptop Type
 
 - Gaming laptops and Workstations have higher screen sizes and weights.
 
 - Ultrabooks are lightweight with moderate display sizes — ideal for professionals on the go.
 
-###🧱 6. Avg Storage & Avg Price Trend by Company
+### 🧱 6. Avg Storage & Avg Price Trend by Company
 
 - Line chart comparing price and storage trends among all manufacturers.
 
 - Useful for identifying brand performance consistency.
 
-##⚙️ Filters & Slicers
+## ⚙️ Filters & Slicers
 
 - The dashboard includes multiple interactive filters for deeper analysis:
 
@@ -109,17 +109,17 @@ These filters allow users to dynamically explore the dataset and focus on specif
 
 ## 🧠 Key Insights Summary
 
-💰 Workstations and Gaming laptops are significantly more expensive due to high-performance hardware.
+- 💰 Workstations and Gaming laptops are significantly more expensive due to high-performance hardware.
 
-🍏 macOS devices retain a premium even with moderate RAM/storage.
+- 🍏 macOS devices retain a premium even with moderate RAM/storage.
 
-⚡ RAM and Storage strongly influence pricing, especially for high-end models.
+- ⚡ RAM and Storage strongly influence pricing, especially for high-end models.
 
-💻 Windows OS has the widest range of models and prices.
+- 💻 Windows OS has the widest range of models and prices.
 
-🏢 Apple, Dell, and Asus lead in pricing; Acer and Lenovo offer competitive mid-range options.
+- 🏢 Apple, Dell, and Asus lead in pricing; Acer and Lenovo offer competitive mid-range options.
 
-##🧰 Tools & Technologies
+## 🧰 Tools & Technologies
 
 - Power BI Desktop: Dashboard creation & visualization
 - Power Query: Data cleaning and transformation
@@ -138,9 +138,10 @@ git clone https://github.com/YourUsername/Laptop-Price-Analysis.git
 4) Hover over visuals for tooltips
 5) Explore trends and insights
 
-##👩‍💻 Author
+## 👩‍💻 Author
 
 Gayatri Ruddarraju
+
 📊 Data Analyst | Power BI | SQL | Python
 📧 Email: gayatrideviruddarraju@gmail.com
 🔗 LinkedIn: http://www.linkedin.com/in/gayatri-devi-ruddarraju-00a579269
