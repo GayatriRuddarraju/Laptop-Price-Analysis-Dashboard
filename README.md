@@ -2,19 +2,19 @@
 
 ## 💻 Laptop Price Analysis Dashboard
 
-##📊 Overview
+## 📊 Overview
 
 The Laptop Price Analysis Dashboard is a dynamic and interactive Power BI report designed to analyze and visualize the relationship between laptop features and their market prices.
 It provides key insights into how specifications like RAM, storage, company brand, operating system, and type influence pricing trends in the global laptop market.
 
 This dashboard helps businesses, analysts, and buyers make data-driven decisions by exploring brand performance, pricing distribution, and component-based trends.
 
-##📷 Dashboard Preview
+## 📷 Dashboard Preview
 
 <img width="886" height="499" alt="Laptop price Dashboard" src="https://github.com/user-attachments/assets/8f494e30-b169-4504-bf38-7b36b93cb163" />
 
 
-##🎯 Objectives
+## 🎯 Objectives
 
 To analyze the impact of hardware specifications on laptop prices.
 
@@ -24,7 +24,7 @@ To provide an interactive view for users to filter and compare laptops based on 
 
 To summarize key performance indicators (KPIs) for business insights.
 
-##📁 Dataset Information
+## 📁 Dataset Information
 Attribute	Description
 Company	Laptop manufacturer (e.g., Dell, HP, Apple, Acer, Lenovo)
 TypeName	Category of laptop (Gaming, Workstation, Notebook, Ultrabook, etc.)
