@@ -49,6 +49,25 @@ Sum of Price (€)	💶 75.9K+	Total value of all laptop models combined. Useful
 Goal Comparison (Price vs. Storage)	🎯 356 (+21220%)	Benchmark goal analysis for business insight (storage-to-price ratio).
 Avg Storage & Price by OS	📊 369.24 (-78.11%)	Measures the correlation between storage and price across operating systems.
 
+
+
+
+## 📈 Key Metrics (KPI Cards)
+
+- **Model Count: 576
+
+Average Price (€/unit): ~ 1.13K
+
+Average Storage: ~ 620.59 GB
+
+Average RAM: ~ 8.44 GB
+
+Total Price Sum: ~ €75.9K
+
+Highest Avg Price by Type: Workstation (~ €2.28K)
+
+Avg Price by OS: (Compare across macOS, Windows, Linux, etc.)
+
 These KPI cards are displayed at the top of the dashboard, offering a quick snapshot of the market summary before diving into detailed visuals.
 
 ##📊 Visuals & Insights
